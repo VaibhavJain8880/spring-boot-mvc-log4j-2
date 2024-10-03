@@ -33,4 +33,6 @@ public class Employee {
 	
 	@Column(name="eaddr")
 	private String empAddr;
+
+	System.out.printl();
 }
